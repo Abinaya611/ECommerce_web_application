@@ -14,7 +14,7 @@ venv.bak/
 /backend/db.sqlite3
 /backend/media/
 /media/
-.env
+*.env
 
 # Node / frontend
 node_modules/
